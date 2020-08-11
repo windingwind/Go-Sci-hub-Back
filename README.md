@@ -8,4 +8,6 @@ This script will add a button to the top-left of any Scihub page(\*.scihub.\*). 
 
 **Welcome to post issues directly on [Github](https://github.com/windingwind/Go-Sci-hub-Back/issues). Please DONT report problems through Greasy Fork comment because I may not be informed.**
 
+Common issues are [here](https://github.com/windingwind/Go-Sci-hub-Back/issues/1)
+
  contact me @ <wyzlshx@foxmail.com>
